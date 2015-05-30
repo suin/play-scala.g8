@@ -1,4 +1,4 @@
-name := """$name;format="normalize"$"""
+name := """$name$"""
 
 version := "1.0-SNAPSHOT"
 
